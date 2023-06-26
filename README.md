@@ -6,4 +6,4 @@ This repositiry is built step by step by tutorial.
 
 This repository is built step by step in the tutorial.
 It now include  steps for GitHub.
-aaaaaaaaaaaaaaaaaaaaa
+including how to work with branches on GitHub.
